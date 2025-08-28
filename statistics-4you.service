@@ -1,0 +1,12 @@
+[Unit]
+Description=Daemon fetching statistics from Mennekes AMTRON 4You charge points
+After=network-online.target
+
+[Service]
+Type=simple
+User=statistics-4you
+ExecStart=statistics-4you
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
