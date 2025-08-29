@@ -1,1 +1,2 @@
 d /var/lib/statistics-4you 0750 statistics-4you statistics-4you -
+d /var/lib/statistics-4you/data 0750 statistics-4you statistics-4you -

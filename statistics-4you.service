@@ -5,6 +5,7 @@ After=network-online.target
 [Service]
 Type=simple
 User=statistics-4you
+WorkingDirectory=/var/lib/statistics-4you
 ExecStart=statistics-4you
 Restart=always
 

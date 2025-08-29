@@ -11,9 +11,9 @@ pkgbase = statistics-4you
 	source = statistics-4you.service
 	source = statistics-4you.sysusers
 	source = statistics-4you.tmpfiles
-	sha256sums = 75daa8300a15acf9984de4c4407f1a6fe984f8a55920e4633f29ef1680953e26
-	sha256sums = db2d533675483ba9ea168606bd3acd19b9c79c7fb833d8dfb313ee1118f430c6
+	sha256sums = 8b5ad0ef097ba17fc5bc1185264928df4aa61b6f38be8f40e97c79272f7ca5da
+	sha256sums = 352381b12f4d37f0c29d6e06ce1177a787faec7921bdbe07453b6943b19e5e1d
 	sha256sums = 880acc36d8b2a3daf13e8c65f89b018c44b4cf0f8116775b11b11f3b091d57bd
-	sha256sums = 2a8947bebf9910825668ef8fd38ea2e38a7c65f00f4cb213dc43e0bd3c153b5a
+	sha256sums = fb4e0a53b383c8b8fe42e64b3cbee2dc2aaceef486cfa834bd26ab412df85ac7
 
 pkgname = statistics-4you
